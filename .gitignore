@@ -1,0 +1,14 @@
+# binary artifacts stay local (generations, renders)
+*.npz
+*.png
+*.gif
+*.jpg
+*.mp4
+
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# body model files are license-gated, never commit
+body_models/
+smplx/

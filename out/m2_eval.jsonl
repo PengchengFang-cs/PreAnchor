@@ -1,0 +1,110 @@
+{"shard": "000000000-000000010", "object": "159273/model.001", "n_anchors": 2, "n_modes": 2, "n_cands": 7, "mode_sizes": [1, 1], "ranks": [1, 2]}
+{"shard": "000000000-000000010", "object": "283217/model", "n_anchors": 8, "n_modes": 2, "n_cands": 36, "mode_sizes": [6, 2], "ranks": [10, 13]}
+{"shard": "000000010-000000020", "object": "101776/model", "n_anchors": 7, "n_modes": 2, "n_cands": 1, "mode_sizes": [2, 5], "ranks": [1, 1]}
+{"shard": "000000010-000000020", "object": "108072/model", "n_anchors": 4, "n_modes": 2, "n_cands": 75, "mode_sizes": [3, 1], "ranks": [null, null]}
+{"shard": "000000020-000000030", "object": "101776/model", "n_anchors": 5, "n_modes": 3, "n_cands": 1, "mode_sizes": [2, 1, 2], "ranks": [1, null, null]}
+{"shard": "000000020-000000030", "object": "108072/model", "n_anchors": 6, "n_modes": 1, "n_cands": 75, "mode_sizes": [6], "ranks": [null]}
+{"shard": "000000030-000000040", "object": "1984/model", "n_anchors": 14, "n_modes": 5, "n_cands": 50, "mode_sizes": [4, 3, 3, 1, 3], "ranks": [null, null, null, null, null]}
+{"shard": "000000040-000000050", "object": "539720/model", "n_anchors": 9, "n_modes": 4, "n_cands": 51, "mode_sizes": [4, 1, 3, 1], "ranks": [2, 2, 27, 3]}
+{"shard": "000000040-000000050", "object": "593745/model.002", "n_anchors": 3, "n_modes": 1, "n_cands": 5, "mode_sizes": [3], "ranks": [1]}
+{"shard": "000000050-000000060", "object": "34229/model1", "n_anchors": 3, "n_modes": 1, "n_cands": 63, "mode_sizes": [3], "ranks": [12]}
+{"shard": "000000050-000000060", "object": "48616/model", "n_anchors": 13, "n_modes": 5, "n_cands": 36, "mode_sizes": [4, 5, 1, 2, 1], "ranks": [null, 12, 34, 1, 4]}
+{"shard": "000000050-000000060", "object": "48677/model1", "n_anchors": 2, "n_modes": 1, "n_cands": 2, "mode_sizes": [2], "ranks": [2]}
+{"shard": "000000060-000000070", "object": "55618/model", "n_anchors": 7, "n_modes": 5, "n_cands": 77, "mode_sizes": [1, 1, 1, 2, 2], "ranks": [null, 35, 18, 27, 16]}
+{"shard": "000000060-000000070", "object": "57030/model", "n_anchors": 1, "n_modes": 1, "n_cands": 13, "mode_sizes": [1], "ranks": [2]}
+{"shard": "000000070-000000074", "object": "6517/model", "n_anchors": 2, "n_modes": 2, "n_cands": 37, "mode_sizes": [1, 1], "ranks": [14, 2]}
+{"shard": "000000074-000000080", "object": "6517/model", "n_anchors": 9, "n_modes": 4, "n_cands": 37, "mode_sizes": [3, 4, 1, 1], "ranks": [null, 15, null, 15]}
+{"shard": "000000080-000000090", "object": "75027/model", "n_anchors": 8, "n_modes": 4, "n_cands": 109, "mode_sizes": [3, 2, 2, 1], "ranks": [80, null, null, 70]}
+{"shard": "000000080-000000090", "object": "75114/model", "n_anchors": 1, "n_modes": 1, "n_cands": 12, "mode_sizes": [1], "ranks": [7]}
+{"shard": "000000090-000000100", "object": "2948/model", "n_anchors": 10, "n_modes": 6, "n_cands": 101, "mode_sizes": [2, 2, 3, 1, 1, 1], "ranks": [90, 8, 6, 2, 2, 4]}
+{"shard": "000000100-000000110", "object": "28994/model", "n_anchors": 6, "n_modes": 4, "n_cands": 33, "mode_sizes": [3, 1, 1, 1], "ranks": [8, 13, null, 6]}
+{"shard": "000000110-000000120", "object": "85996/model", "n_anchors": 11, "n_modes": 6, "n_cands": 59, "mode_sizes": [1, 6, 1, 1, 1, 1], "ranks": [16, 51, 29, 17, null, 17]}
+{"shard": "000000120-000000130", "object": "2021159106791484433504/model", "n_anchors": 6, "n_modes": 4, "n_cands": 84, "mode_sizes": [1, 3, 1, 1], "ranks": [39, 39, 16, 35]}
+{"shard": "000000130-000000140", "object": "4566/model", "n_anchors": 6, "n_modes": 4, "n_cands": 0, "mode_sizes": [2, 1, 2, 1], "ranks": [null, null, null, null]}
+{"shard": "000000130-000000140", "object": "Chair.003", "n_anchors": 1, "n_modes": 1, "n_cands": 5, "mode_sizes": [1], "ranks": [2]}
+{"shard": "000000140-000000150", "object": "13314/model", "n_anchors": 16, "n_modes": 4, "n_cands": 40, "mode_sizes": [4, 4, 7, 1], "ranks": [16, null, 15, null]}
+{"shard": "000000150-000000160", "object": "2021159101849486906016/model", "n_anchors": 7, "n_modes": 3, "n_cands": 38, "mode_sizes": [3, 1, 3], "ranks": [8, null, 14]}
+{"shard": "000000150-000000160", "object": "2021159101849487689600/model.001", "n_anchors": 2, "n_modes": 1, "n_cands": 1, "mode_sizes": [2], "ranks": [1]}
+{"shard": "000000150-000000160", "object": "2021159101849487999488/model", "n_anchors": 2, "n_modes": 2, "n_cands": 27, "mode_sizes": [1, 1], "ranks": [3, 6]}
+{"shard": "000000160-000000170", "object": "6717/model", "n_anchors": 12, "n_modes": 9, "n_cands": 89, "mode_sizes": [1, 4, 1, 1, 1, 1, 1, 1, 1], "ranks": [32, 28, 7, null, 4, 9, 12, null, 14]}
+{"shard": "000000170-000000180", "object": "27970/model", "n_anchors": 1, "n_modes": 1, "n_cands": 25, "mode_sizes": [1], "ranks": [6]}
+{"shard": "000000170-000000180", "object": "27988/model", "n_anchors": 8, "n_modes": 4, "n_cands": 11, "mode_sizes": [4, 2, 1, 1], "ranks": [1, 8, 1, null]}
+{"shard": "000000180-000000190", "object": "2021159108235020239904/model", "n_anchors": 3, "n_modes": 2, "n_cands": 78, "mode_sizes": [2, 1], "ranks": [2, 23]}
+{"shard": "000000180-000000190", "object": "2021159108235020351776/model", "n_anchors": 2, "n_modes": 2, "n_cands": 7, "mode_sizes": [1, 1], "ranks": [2, 2]}
+{"shard": "000000180-000000190", "object": "2021159108235020507392/model.003", "n_anchors": 1, "n_modes": 1, "n_cands": 2, "mode_sizes": [1], "ranks": [1]}
+{"shard": "000000180-000000190", "object": "2021159108235020507392/model.006", "n_anchors": 2, "n_modes": 1, "n_cands": 2, "mode_sizes": [2], "ranks": [1]}
+{"shard": "000000190-000000200", "object": "17454/model", "n_anchors": 7, "n_modes": 3, "n_cands": 52, "mode_sizes": [5, 1, 1], "ranks": [34, null, null]}
+{"shard": "000000190-000000200", "object": "5863/model.002", "n_anchors": 2, "n_modes": 1, "n_cands": 3, "mode_sizes": [2], "ranks": [2]}
+{"shard": "000000190-000000200", "object": "5863/model.003", "n_anchors": 2, "n_modes": 1, "n_cands": 2, "mode_sizes": [2], "ranks": [1]}
+{"shard": "000000200-000000210", "object": "41698/model", "n_anchors": 7, "n_modes": 6, "n_cands": 79, "mode_sizes": [2, 1, 1, 1, 1, 1], "ranks": [13, 61, 7, 26, 16, null]}
+{"shard": "000000210-000000220", "object": "4417/model.002", "n_anchors": 1, "n_modes": 1, "n_cands": 2, "mode_sizes": [1], "ranks": [1]}
+{"shard": "000000210-000000220", "object": "5704/model", "n_anchors": 1, "n_modes": 1, "n_cands": 0, "mode_sizes": [1], "ranks": [null]}
+{"shard": "000000220-000000230", "object": "2021159401246342932416/model", "n_anchors": 2, "n_modes": 2, "n_cands": 78, "mode_sizes": [1, 1], "ranks": [6, 3]}
+{"shard": "000000220-000000230", "object": "2021159401246342994400/model", "n_anchors": 2, "n_modes": 2, "n_cands": 37, "mode_sizes": [1, 1], "ranks": [8, 8]}
+{"shard": "000000220-000000230", "object": "2021159401246343649888/model", "n_anchors": 4, "n_modes": 2, "n_cands": 26, "mode_sizes": [2, 2], "ranks": [1, null]}
+{"shard": "000000230-000000240", "object": "2021159101880880821504/model", "n_anchors": 7, "n_modes": 5, "n_cands": 28, "mode_sizes": [2, 2, 1, 1, 1], "ranks": [null, null, 23, 2, null]}
+{"shard": "000000230-000000240", "object": "2021159101880881309600/model", "n_anchors": 2, "n_modes": 1, "n_cands": 1, "mode_sizes": [2], "ranks": [1]}
+{"shard": "000000240-000000250", "object": "478/model", "n_anchors": 9, "n_modes": 3, "n_cands": 51, "mode_sizes": [7, 1, 1], "ranks": [35, null, null]}
+{"shard": "000000240-000000250", "object": "482/model", "n_anchors": 3, "n_modes": 1, "n_cands": 0, "mode_sizes": [3], "ranks": [null]}
+{"shard": "000000250-000000260", "object": "2021159401058450317600/model", "n_anchors": 1, "n_modes": 1, "n_cands": 11, "mode_sizes": [1], "ranks": [3]}
+{"shard": "000000250-000000260", "object": "2021159401058451339488/model", "n_anchors": 9, "n_modes": 6, "n_cands": 73, "mode_sizes": [1, 4, 1, 1, 1, 1], "ranks": [null, 47, null, 50, 40, 24]}
+{"shard": "000000260-000000270", "object": "5996/model", "n_anchors": 5, "n_modes": 3, "n_cands": 64, "mode_sizes": [3, 1, 1], "ranks": [1, 3, 2]}
+{"shard": "000000270-000000280", "object": "28088/model", "n_anchors": 7, "n_modes": 4, "n_cands": 43, "mode_sizes": [1, 3, 2, 1], "ranks": [27, 16, 27, null]}
+{"shard": "000000280-000000290", "object": "2021159374641303871488/model", "n_anchors": 5, "n_modes": 2, "n_cands": 95, "mode_sizes": [4, 1], "ranks": [25, 20]}
+{"shard": "000000280-000000290", "object": "2021159374641305190816/model", "n_anchors": 1, "n_modes": 1, "n_cands": 14, "mode_sizes": [1], "ranks": [3]}
+{"shard": "000000280-000000290", "object": "2021159374641306406176/model", "n_anchors": 5, "n_modes": 5, "n_cands": 24, "mode_sizes": [1, 1, 1, 1, 1], "ranks": [22, 9, null, 23, 23]}
+{"shard": "000000290-000000293", "object": "25336/model", "n_anchors": 3, "n_modes": 3, "n_cands": 58, "mode_sizes": [1, 1, 1], "ranks": [11, null, null]}
+{"shard": "000000293-000000303", "object": "77389/model", "n_anchors": 7, "n_modes": 3, "n_cands": 29, "mode_sizes": [2, 2, 3], "ranks": [null, 4, 8]}
+{"shard": "000000303-000000313", "object": "7747/model", "n_anchors": 8, "n_modes": 5, "n_cands": 25, "mode_sizes": [3, 2, 1, 1, 1], "ranks": [16, 10, null, 13, 13]}
+{"shard": "000000313-000000323", "object": "67847/model", "n_anchors": 4, "n_modes": 4, "n_cands": 153, "mode_sizes": [1, 1, 1, 1], "ranks": [49, null, 10, 45]}
+{"shard": "000000323-000000333", "object": "153118/model", "n_anchors": 6, "n_modes": 3, "n_cands": 0, "mode_sizes": [2, 2, 2], "ranks": [null, null, null]}
+{"shard": "000000323-000000333", "object": "153121/model.003", "n_anchors": 2, "n_modes": 1, "n_cands": 3, "mode_sizes": [2], "ranks": [2]}
+{"shard": "000000333-000000343", "object": "3130/model", "n_anchors": 8, "n_modes": 3, "n_cands": 40, "mode_sizes": [5, 2, 1], "ranks": [9, 10, 14]}
+{"shard": "000000333-000000343", "object": "6867/model.001", "n_anchors": 1, "n_modes": 1, "n_cands": 1, "mode_sizes": [1], "ranks": [1]}
+{"shard": "000000343-000000353", "object": "9721/model", "n_anchors": 4, "n_modes": 4, "n_cands": 46, "mode_sizes": [1, 1, 1, 1], "ranks": [30, null, null, null]}
+{"shard": "000000353-000000363", "object": "6419/model", "n_anchors": 8, "n_modes": 3, "n_cands": 74, "mode_sizes": [5, 2, 1], "ranks": [6, 9, 26]}
+{"shard": "000000353-000000363", "object": "6488/model", "n_anchors": 1, "n_modes": 1, "n_cands": 2, "mode_sizes": [1], "ranks": [1]}
+{"shard": "000000353-000000363", "object": "6509/model", "n_anchors": 1, "n_modes": 1, "n_cands": 20, "mode_sizes": [1], "ranks": [7]}
+{"shard": "000000363-000000373", "object": "11024/model", "n_anchors": 19, "n_modes": 9, "n_cands": 42, "mode_sizes": [9, 1, 1, 2, 2, 1, 1, 1, 1], "ranks": [5, 17, 13, 20, 7, 8, 16, 13, 27]}
+{"shard": "000000373-000000383", "object": "39524/model", "n_anchors": 5, "n_modes": 5, "n_cands": 68, "mode_sizes": [1, 1, 1, 1, 1], "ranks": [24, 22, 29, 27, 14]}
+{"shard": "000000383-000000393", "object": "320686/model", "n_anchors": 13, "n_modes": 7, "n_cands": 42, "mode_sizes": [4, 1, 1, 2, 2, 1, 2], "ranks": [36, 37, 9, 6, 33, 7, 11]}
+{"shard": "000000393-000000403", "object": "15397/model", "n_anchors": 11, "n_modes": 8, "n_cands": 38, "mode_sizes": [1, 1, 3, 2, 1, 1, 1, 1], "ranks": [17, null, 14, 31, 28, 29, null, 16]}
+{"shard": "000000393-000000403", "object": "15399/model.001", "n_anchors": 1, "n_modes": 1, "n_cands": 4, "mode_sizes": [1], "ranks": [1]}
+{"shard": "000000403-000000405", "object": "33136/model", "n_anchors": 2, "n_modes": 1, "n_cands": 15, "mode_sizes": [2], "ranks": [3]}
+{"shard": "000000403-000000405", "object": "45553/model", "n_anchors": 3, "n_modes": 1, "n_cands": 4, "mode_sizes": [3], "ranks": [null]}
+{"shard": "000000405-000000413", "object": "25224/model.001", "n_anchors": 3, "n_modes": 3, "n_cands": 6, "mode_sizes": [1, 1, 1], "ranks": [2, 4, 3]}
+{"shard": "000000405-000000413", "object": "33136/model", "n_anchors": 3, "n_modes": 1, "n_cands": 15, "mode_sizes": [3], "ranks": [3]}
+{"shard": "000000405-000000413", "object": "45553/model", "n_anchors": 6, "n_modes": 2, "n_cands": 4, "mode_sizes": [2, 4], "ranks": [null, null]}
+{"shard": "000000413-000000423", "object": "2021159109126008127392/model", "n_anchors": 11, "n_modes": 7, "n_cands": 122, "mode_sizes": [1, 1, 2, 1, 2, 2, 2], "ranks": [58, null, null, 110, null, 61, 39]}
+{"shard": "000000413-000000423", "object": "2021159109126008299392/model", "n_anchors": 1, "n_modes": 1, "n_cands": 9, "mode_sizes": [1], "ranks": [3]}
+{"shard": "000000413-000000423", "object": "2021159109126008579712/model", "n_anchors": 1, "n_modes": 1, "n_cands": 0, "mode_sizes": [1], "ranks": [null]}
+{"shard": "000000423-000000433", "object": "45323/model", "n_anchors": 5, "n_modes": 3, "n_cands": 85, "mode_sizes": [2, 2, 1], "ranks": [23, null, 17]}
+{"shard": "000000423-000000433", "object": "45325/model", "n_anchors": 3, "n_modes": 1, "n_cands": 52, "mode_sizes": [3], "ranks": [4]}
+{"shard": "000000433-000000441", "object": "770371/model", "n_anchors": 4, "n_modes": 2, "n_cands": 15, "mode_sizes": [3, 1], "ranks": [11, 1]}
+{"shard": "000000433-000000441", "object": "770398/model1", "n_anchors": 6, "n_modes": 3, "n_cands": 27, "mode_sizes": [4, 1, 1], "ranks": [6, 6, 6]}
+{"shard": "000000441-000000451", "object": "95902/model", "n_anchors": 2, "n_modes": 2, "n_cands": 59, "mode_sizes": [1, 1], "ranks": [2, 30]}
+{"shard": "000000441-000000451", "object": "97556/model", "n_anchors": 3, "n_modes": 3, "n_cands": 72, "mode_sizes": [1, 1, 1], "ranks": [25, 46, 33]}
+{"shard": "000000441-000000451", "object": "97565/model", "n_anchors": 2, "n_modes": 2, "n_cands": 16, "mode_sizes": [1, 1], "ranks": [3, 1]}
+{"shard": "000000451-000000460", "object": "6335/model", "n_anchors": 3, "n_modes": 2, "n_cands": 54, "mode_sizes": [2, 1], "ranks": [23, 17]}
+{"shard": "000000451-000000460", "object": "6336/model", "n_anchors": 3, "n_modes": 1, "n_cands": 30, "mode_sizes": [3], "ranks": [5]}
+{"shard": "000000461-000000471", "object": "803/model", "n_anchors": 4, "n_modes": 1, "n_cands": 33, "mode_sizes": [4], "ranks": [11]}
+{"shard": "000000461-000000471", "object": "810/model", "n_anchors": 4, "n_modes": 3, "n_cands": 5, "mode_sizes": [2, 1, 1], "ranks": [1, 1, null]}
+{"shard": "000000461-000000471", "object": "819/model.001", "n_anchors": 7, "n_modes": 2, "n_cands": 0, "mode_sizes": [6, 1], "ranks": [null, null]}
+{"shard": "000000471-000000481", "object": "2021159369928787556288/model", "n_anchors": 2, "n_modes": 1, "n_cands": 12, "mode_sizes": [2], "ranks": [1]}
+{"shard": "000000471-000000481", "object": "2021159369928787667616/model", "n_anchors": 4, "n_modes": 3, "n_cands": 50, "mode_sizes": [2, 1, 1], "ranks": [7, 12, 13]}
+{"shard": "000000471-000000481", "object": "2021159369928787964480/model.002", "n_anchors": 2, "n_modes": 1, "n_cands": 0, "mode_sizes": [2], "ranks": [null]}
+{"shard": "000000481-000000491", "object": "16956/model", "n_anchors": 3, "n_modes": 2, "n_cands": 10, "mode_sizes": [2, 1], "ranks": [4, 1]}
+{"shard": "000000481-000000491", "object": "19205/model", "n_anchors": 2, "n_modes": 1, "n_cands": 46, "mode_sizes": [2], "ranks": [5]}
+{"shard": "000000491-000000501", "object": "2021159370230730315200/model", "n_anchors": 11, "n_modes": 8, "n_cands": 84, "mode_sizes": [1, 1, 1, 1, 2, 3, 1, 1], "ranks": [59, 3, 3, 55, 11, 10, 34, 18]}
+{"shard": "000000501-000000512", "object": "85983/model", "n_anchors": 3, "n_modes": 2, "n_cands": 50, "mode_sizes": [2, 1], "ranks": [25, 27]}
+{"shard": "000000501-000000512", "object": "86014/model.005", "n_anchors": 3, "n_modes": 1, "n_cands": 3, "mode_sizes": [3], "ranks": [null]}
+{"shard": "000000501-000000512", "object": "86027/model", "n_anchors": 3, "n_modes": 1, "n_cands": 28, "mode_sizes": [3], "ranks": [5]}
+{"shard": "000000512-000000522", "object": "50900/model", "n_anchors": 2, "n_modes": 1, "n_cands": 7, "mode_sizes": [2], "ranks": [4]}
+{"shard": "000000522-000000532", "object": "50900/model.003", "n_anchors": 3, "n_modes": 2, "n_cands": 5, "mode_sizes": [2, 1], "ranks": [5, 5]}
+{"shard": "000000522-000000532", "object": "51014/model", "n_anchors": 7, "n_modes": 5, "n_cands": 8, "mode_sizes": [2, 2, 1, 1, 1], "ranks": [null, null, null, null, null]}
+{"shard": "000000532-000000541", "object": "4797/model", "n_anchors": 4, "n_modes": 2, "n_cands": 60, "mode_sizes": [1, 3], "ranks": [null, 5]}
+{"shard": "000000532-000000541", "object": "4798/model", "n_anchors": 2, "n_modes": 1, "n_cands": 40, "mode_sizes": [2], "ranks": [2]}
+{"shard": "000000541-000000551", "object": "67497/model.001", "n_anchors": 1, "n_modes": 1, "n_cands": 16, "mode_sizes": [1], "ranks": [4]}
+{"shard": "000000541-000000551", "object": "67498/model", "n_anchors": 10, "n_modes": 6, "n_cands": 20, "mode_sizes": [4, 2, 1, 1, 1, 1], "ranks": [11, null, null, null, 12, 11]}
+{"shard": "000000551-000000560", "object": "25379/model", "n_anchors": 4, "n_modes": 2, "n_cands": 88, "mode_sizes": [3, 1], "ranks": [56, null]}
+{"shard": "000000551-000000560", "object": "27290/model", "n_anchors": 10, "n_modes": 4, "n_cands": 7, "mode_sizes": [7, 1, 1, 1], "ranks": [7, 5, 6, 5]}
